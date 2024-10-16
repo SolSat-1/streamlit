@@ -1,1 +1,1 @@
-** `streamlit run ./map_solar_rediation.py` **
+streamlit run ./map_solar_rediation.py
