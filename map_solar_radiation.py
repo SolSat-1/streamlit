@@ -2,6 +2,9 @@ import datetime
 import ee
 import geemap.foliumap as geemap
 import os
+from dotenv import load_dotenv
+
+load_dotenv(verbose=True)
 
 geemap.ee_initialize(
     token_name=os.getenv('EARTH_ENGINE_TOKEN'))
