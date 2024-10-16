@@ -1,2 +1,2 @@
 ```bash
-streamlit run ./map_solar_rediation.py
+streamlit run ./display.py
