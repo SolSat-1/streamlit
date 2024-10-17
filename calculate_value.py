@@ -7,7 +7,7 @@ import math
 import json
 
 geemap.ee_initialize(
-    token_name="4/1AQlEd8yH0xfMAYqZzI7lGJhAXgHFuCO2p-5olv4eVBaZcllee8gp_YxzcVM")
+    token_name="your_token")
 ee.Initialize()
 
 
